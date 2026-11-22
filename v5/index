@@ -1,4 +1,4 @@
-TOBORIX1Mk‡ƒÇ·Ki™™Vzwºö’Ù$ –k­fjN€t™lcOÍÄ<ûVVM>Èù;Ø©bB%>çY*T‘%ƒ™ôà{
+TOBORIX1FUBÃê°ŒÍ·`8˜õœ¦~ü—=i?ÃÇ¥5}µMğè÷â|D®Ÿ²ªR¸E­ğ¹›}Ü™cÓT Ån'{
  "v": "v5",
  "packs": [
   {
@@ -40,6 +40,31 @@ TOBORIX1Mk‡ƒÇ·Ki™™Vzwºö’Ù$ –k­fjN€t™lcOÍÄ<ûVVM>Èù;Ø©bB%>çY*T‘%ƒ™ôà{
    "month": "2027-06",
    "size": 256280,
    "sha256": "7c24eb41787837b8e8071c1e23caf9ff2928ec91005f588f190be96f90223d6f"
+  },
+  {
+   "month": "2027-07",
+   "size": 265568,
+   "sha256": "300f3fe0320455593f0937dfebc79eed6ac26b408f266a4c6e7bbea03c263a3d"
+  },
+  {
+   "month": "2027-08",
+   "size": 264008,
+   "sha256": "453121d3406b9141c6c72a88603efefcc3a7dafb11395fd2ffc63ef9db739cb7"
+  },
+  {
+   "month": "2027-09",
+   "size": 256412,
+   "sha256": "521468081be26577804861546c52e8eb440d79a721fa0183f688e1c2cafd3e8f"
+  },
+  {
+   "month": "2027-10",
+   "size": 265460,
+   "sha256": "841f28f3df773269122499e917af9f0ff48fa9c59b5d51db4b0ef6019e500204"
+  },
+  {
+   "month": "2027-11",
+   "size": 256724,
+   "sha256": "ede9a0ee68cb692cda41ce889a05c2afcbe34f16ddb6c7ff3f6b4edfbffec6f3"
   }
  ]
 }
